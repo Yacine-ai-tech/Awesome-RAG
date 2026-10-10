@@ -351,6 +351,7 @@ These tools can assist in evaluating the performance of your RAG system, from tr
 - **[LangSmith](https://docs.smith.langchain.com/)**: A platform for building production-grade LLM applications, allows you to closely monitor and evaluate your application.
 - **[Hugging Face Evaluate](https://github.com/huggingface/evaluate)**: Tool for computing metrics like BLEU and ROUGE to assess text quality.
 - **[Weights & Biases](https://wandb.ai/wandb-japan/rag-hands-on/reports/Step-for-developing-and-evaluating-RAG-application-with-W-B--Vmlldzo1NzU4OTAx)**: Tracks experiments, logs metrics, and visualizes performance.
+- **[RAGeval](https://github.com/Yacine-ai-tech/RAGeval)**: Production RAG evaluation library with multi-judge consensus scoring, disagreement alarms, 5 composite metrics (faithfulness, relevancy, completeness, coherence, groundedness), bootstrap confidence intervals, and OpenTelemetry tracing. Multi-provider support: OpenAI, Anthropic, Mistral. `pip install omnismart-rageval`
 
 ## 💾 Databases
 
